@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BakeMaster AI Portrait",
+  "description": "Transform your photo into a professional bakery-themed branding portrait using AI. Perfect for small business owners and artisanal bakers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
